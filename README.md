@@ -1,47 +1,40 @@
 # 👋 Hi, I’m Dimitris
 
-I’m a **Cyber Security BSc (Hons) student** with a strong interest in **offensive security and penetration testing**. I have a solid technical foundation in networking, Linux and Windows systems, and security fundamentals, combined with hands-on experience from labs, challenges, and real-world projects.
+**Cyber Security BSc Student | Aspiring Penetration Tester **
 
-I’m currently focused on:
-- Building practical skills through **Hack The Box** and **PicoCTF**
-- Strengthening my networking knowledge (**CCNA – In Progress**)
-- Developing security-related tools and Python applications
-- Preparing for an entry-level role in **Cyber Security / SOC**, with a long-term goal of becoming a **Penetration Tester**
+I’m a cybersecurity student with a strong foundation in networking, Linux/Windows internals, and software development. I learn by building tools and breaking into lab environments, with a heavy focus on offensive security and web exploitation. 
 
----
-
-## 🧠 Technical Interests
-- Network & system security
-- Vulnerability assessment and exploitation 
-- Linux & Windows internals
-- Python scripting and automation
-- Ethical hacking methodologies
+**🎯 Currently Focused On:**
+* Grinding the **Penetration Tester Path** on Hack The Box.
+* Simulating real-world attacks in my Home Lab.
+* Developing Python-based security tools and automation scripts.
+* Preparing for a Junior Penetration Tester / SOC Analyst role.
 
 ---
 
-## 🛠️ Projects
-### 🍽️ Restaurant Tip Distribution Management Application
-A production desktop application built with **Python, Tkinter, and SQLite**, deployed in a real restaurant environment.
-- User authentication & staff management
-- Configurable point system
-- Daily, weekly, and monthly calculations
-- Packaged as a Windows installer for non-technical users
+### 🧪 Hands-On Training & Home Lab
+
+* **[Hack The Box Profile]((https://app.hackthebox.com/users/2807668)):** Actively progressing through the Penetration Tester path. I spend my time here exploiting web vulnerabilities, chaining attacks, and writing micro-reports for rooted machines.(16 Flags, Hacker Rank)
+* **Home Lab Operations:** I maintain a local lab to test defensive triggers and offensive tactics. Currently experimenting with **Sliver C2** infrastructure and physical access attacks.
+* **PicoCTF:** Practicing web exploitation, Linux privilege escalation, and cryptography challenges. 
 
 ---
 
-## 🧪 Hands-on Training
-- **Hack The Box** – Penetration Tester Path (Active), Machines
-- **PicoCTF** – Web exploitation, Linux, cryptography, and general security challenges
+### 🛠️ Key Projects
+
+**[NetProbe Security Scanner](https://github.com/dimitris-detsirapis/NetProbe-Scanner)** Multi-threaded network reconnaissance tool built with Python. Wraps the Nmap engine, integrates CVE/GeoIP APIs, and generates HTML security audits.
+
+**[Hardware HID Emulator](#)** Physical access penetration testing tool built with a **Raspberry Pi Pico 2** and CircuitPython to deploy custom keystroke injection payloads.
+
+**[Restaurant Tip Management Application](https://github.com/dimitris-detsirapis/Restaurant-Tip-App)** Production-ready desktop GUI application (Python, Tkinter, SQLite) deployed in a real-world restaurant environment to automate complex financial distributions.
+
+**[Intelligent File Automation Service](https://github.com/dimitris-detsirapis/File-Organizer)** Background Python utility utilizing Watchdog to monitor and organize real-time file system events. 
 
 ---
 
-## 🎓 Education
-**Cyber Security BSc (Hons)**  
-University of Derby (UK) – Partner College in Greece  
-📅 Expected Graduation: **May 2027**
+### 🎓 Education & Certifications
+* **BSc (Hons) Cyber Security** – University of Derby (Partner College in Greece) | *Expected May 2027*
+* **CCNA** – *In Progress*
 
----
-
-## 📫 Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/dimitris-detsirapis/
-- Always open to learning, collaboration, and opportunities in cyber security
+### 📫 Let’s Connect
+* **LinkedIn:** [dimitris-detsirapis](https://www.linkedin.com/in/dimitris-detsirapis/)
