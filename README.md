@@ -14,7 +14,7 @@ I’m a cybersecurity student with a strong foundation in networking, Linux/Wind
 
 ### 🧪 Hands-On Training & Home Lab
 
-* **[Hack The Box Profile]((https://app.hackthebox.com/users/2807668)):** Actively progressing through the Penetration Tester path. I spend my time here exploiting web vulnerabilities, chaining attacks, and writing micro-reports for rooted machines.(16 Flags, Hacker Rank)
+* **[Hack The Box Profile]((https://app.hackthebox.com/users/2807668)):** Actively progressing through the Penetration Tester path. I spend my time here exploiting web vulnerabilities, chaining attacks, and writing micro-reports for rooted machines.(27 Flags, Hacker Rank)
 * **Home Lab Operations:** I maintain a local lab to test defensive triggers and offensive tactics. Currently experimenting with **Sliver C2** infrastructure and physical access attacks.
 * **PicoCTF:** Practicing web exploitation, Linux privilege escalation, and cryptography challenges. 
 
