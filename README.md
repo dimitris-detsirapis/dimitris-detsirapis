@@ -5,10 +5,10 @@
 I’m a cybersecurity student with a strong foundation in networking, Linux/Windows internals, and software development. I learn by building tools and breaking into lab environments, with a heavy focus on offensive security and web exploitation. 
 
 **🎯 Currently Focused On:**
-* Grinding the **Penetration Tester Path** on Hack The Box.
+* Grinding the **Penetration Tester Path** on Hack The Box and capturing flags!
 * Simulating real-world attacks in my Home Lab.
 * Developing Python-based security tools and automation scripts.
-* Preparing for a Junior Penetration Tester / SOC Analyst role.
+* Preparing for a Junior Penetration Tester role.
 
 ---
 
