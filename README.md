@@ -14,13 +14,15 @@ I’m a cybersecurity student with a strong foundation in networking, Linux/Wind
 
 ### 🧪 Hands-On Training & Home Lab
 
-* **[Hack The Box Profile]((https://app.hackthebox.com/users/2807668)):** Actively progressing through the Penetration Tester path. I spend my time here exploiting web vulnerabilities, chaining attacks, and writing micro-reports for rooted machines.(27 Flags, Hacker Rank)
+* **[Hack The Box Profile]((https://app.hackthebox.com/users/2807668)):** Actively progressing through the Penetration Tester path. I spend my time here exploiting web vulnerabilities, chaining attacks, and writing micro-reports for rooted machines.(54 Flags,Pro Hacker Rank)
 * **Home Lab Operations:** I maintain a local lab to test defensive triggers and offensive tactics. Currently experimenting with **Sliver C2** infrastructure and physical access attacks.
 * **PicoCTF:** Practicing web exploitation, Linux privilege escalation, and cryptography challenges. 
 
 ---
 
 ### 🛠️ Key Projects
+
+**[my pl4yb00k](https://github.com/dimitris-detsirapis/myplaybook)** A methodology-driven web application for rapid access to penetration testing tools and engagement workflows. It replaces static cheatsheets with a dynamic, offline-first interface mapping tools to specific phases like Reconnaissance, Web Surface Mapping, and Active Directory Ops. Built with vanilla JavaScript and CSS, it features a custom fuzzy search, dynamic command placeholders, and context-aware operator guidance. **[Live Demo](https://dimitris-detsirapis.github.io/myplaybook/)**
 
 **[NetProbe Security Scanner](https://github.com/dimitris-detsirapis/NetProbe-Scanner)** Multi-threaded network reconnaissance tool built with Python. Wraps the Nmap engine, integrates CVE/GeoIP APIs, and generates HTML security audits.
 
