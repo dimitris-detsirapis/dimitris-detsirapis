@@ -37,6 +37,8 @@ I’m a cybersecurity student with a strong foundation in networking, Linux/Wind
 ### 🎓 Education & Certifications
 * **BSc (Hons) Cyber Security** – University of Derby (Partner College in Greece) | *Expected May 2027*
 * **CCNA** – *In Progress*
+* **CWES** – *In Progress*
+* **CPTS** – *In Progress*
 
 ### 📫 Let’s Connect
 * **LinkedIn:** [dimitris-detsirapis](https://www.linkedin.com/in/dimitris-detsirapis/)
