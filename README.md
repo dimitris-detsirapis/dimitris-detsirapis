@@ -24,6 +24,8 @@ I’m a cybersecurity student with a strong foundation in networking, Linux/Wind
 
 **[my pl4yb00k](https://github.com/dimitris-detsirapis/myplaybook)** A methodology-driven web application for rapid access to penetration testing tools and engagement workflows. It replaces static cheatsheets with a dynamic, offline-first interface mapping tools to specific phases like Reconnaissance, Web Surface Mapping, and Active Directory Ops. Built with vanilla JavaScript and CSS, it features a custom fuzzy search, dynamic command placeholders, and context-aware operator guidance. **[Live Demo](https://dimitris-detsirapis.github.io/myplaybook/)**
 
+**[w0rd!t - Wordlist Generator](https://github.com/dimitris-detsirapis/wordit)** w0rd!t is a friendly Python wordlist builder for authorized password recovery, password auditing, CTFs, and training labs. 
+
 **[NetProbe Security Scanner](https://github.com/dimitris-detsirapis/NetProbe-Scanner)** Multi-threaded network reconnaissance tool built with Python. Wraps the Nmap engine, integrates CVE/GeoIP APIs, and generates HTML security audits.
 
 **[Hardware HID Emulator](#)** Physical access penetration testing tool built with a **Raspberry Pi Pico 2** and CircuitPython to deploy custom keystroke injection payloads.
